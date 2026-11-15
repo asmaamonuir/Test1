@@ -1,5 +1,5 @@
 # Test1
-My GitHub Repository
+My First GitHub Repository
 
 ## Files
 - student.ipynb
